@@ -1,0 +1,65 @@
+* {
+	border: 0;
+	box-sizing: inherit;
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+	}
+
+html {
+	box-sizing: border-box;
+	font-size: 16px;
+	}
+
+body {
+	font-family: serif;
+	}
+
+blockquote {
+	background-color: rgba(128, 0, 255, 0.02);
+	padding: 1em;
+	}
+
+h1 {
+	background-color: rgba(255, 0, 0, 0.02);
+	font-size: 2.2rem;
+	font-weight: bold;
+	margin: 1em auto;
+	}
+
+h2 {
+	background-color: rgba(255, 140, 0, 0.02);
+	font-size: 1.8rem;
+	font-weight: bold;
+	margin: 1em auto;
+	}
+
+h3 {
+	background-color: rgba(255, 255, 0, 0.02);
+	font-size: 1.5rem;
+	font-weight: bold;
+	margin: 1em auto;
+	}
+
+main {
+	font-size: 1.2rem;
+	padding: .5rem;
+	}
+
+p {
+	background-color: rgba(0, 128, 255, 0.02);
+	margin: 1em auto;
+	text-indent: 1em;
+	}
+
+
+/* -- IDs -- */
+
+#author {
+	font-weight: bold;
+	}
+
+
+/* -- Classes -- */
+
+
