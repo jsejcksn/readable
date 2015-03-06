@@ -67,6 +67,7 @@ main {
 
 nav {
 	background-color: rgba(0, 0, 0, .03);
+	border: 1px solid rgba(0, 0, 0, .05);
 	font-size: .8rem;
 	padding: 1em;
 	padding-left: 2em;
@@ -109,6 +110,10 @@ p {
 	font-size: .9rem;
 	margin-top: .5em;
 	text-align: right;
+	}
+
+.first {
+	text-indent: 0;
 	}
 
 .hidden {
