@@ -16,6 +16,10 @@ body {
 	line-height: 1.4em;
 	}
 
+::selection {
+	background-color: rgb(255, 255, 0);
+	}
+
 a:link {
 	color: rgb(0, 0, 150);
 	text-decoration: none;
