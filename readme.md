@@ -1,1 +1,3 @@
-Just a responsive css stylesheet for reading papers / stories / documents / etc.
+# responsive-text
+
+A responsive style sheet for reading papers/stories/documents/etc.
