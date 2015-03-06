@@ -43,7 +43,7 @@ h1, h2, h3 {
 
 h1 {
 	font-size: 2rem;
-	margin-top: 1rem;
+	margin-top: 0;
 	}
 
 h2 {
@@ -62,13 +62,12 @@ li {
 	}
 
 main {
-	margin: 1rem 1rem;
+	margin: 1rem;
 	}
 
 nav {
 	background-color: rgba(0, 0, 0, .03);
 	font-size: .8rem;
-	margin: 2rem auto;
 	padding: 1em;
 	padding-left: 2em;
 	}
@@ -121,7 +120,7 @@ p {
 
 @media screen and (max-width: 36.99rem) {
 	main {
-		margin: 1rem 1rem;
+		margin: 1rem;
 		}
 	}
 
