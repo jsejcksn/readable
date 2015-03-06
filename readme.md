@@ -1,3 +1,3 @@
-# responsive-text
+# Readable
 
-A responsive style sheet for reading papers/stories/documents/etc.
+A responsive style sheet for reading documents/papers/stories/etc.
