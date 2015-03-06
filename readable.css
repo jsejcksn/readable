@@ -70,14 +70,19 @@ nav {
 	border: 1px solid rgba(0, 0, 0, .05);
 	font-size: .8rem;
 	padding: 1em;
-	padding-left: 2em;
 	}
 
 nav ol {
-	list-style: decimal outside;
+	list-style: none;
+	margin: 0;
 	}
 
 nav ol ol {
+	margin-left: 1em;
+	}
+
+ol {
+	list-style: decimal outside;
 	margin-left: 1em;
 	}
 
@@ -97,8 +102,9 @@ p {
 	}
 
 #toc {
-	font-size: 1rem;
+	font-size: .9rem;
 	font-weight: bold;
+	margin-top: .5em;
 	text-indent: 0;
 	}
 
