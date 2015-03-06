@@ -95,6 +95,10 @@ p {
 	text-indent: 1em;
 	}
 
+sup {
+	vertical-align: super;
+	font-size: .8em;
+	}
 
 /* -- IDs -- */
 
