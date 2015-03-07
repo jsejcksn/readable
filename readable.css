@@ -110,6 +110,12 @@ sup {
 	font-size: .8em;
 	}
 
+ul {
+	list-style: disc outside;
+	margin-left: 1em;
+	}
+
+
 /* -- IDs -- */
 
 #author {
